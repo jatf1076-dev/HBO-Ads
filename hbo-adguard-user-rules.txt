@@ -13,6 +13,7 @@
 ||cf.amer-free.prd.media.max.com^$important
 ||gmss.*.prd.api.discomax.com^$important
 ||gcp.amer-free.prd.media.max.com^$important
+||fly.amer-free.prd.media.cnn.com
 ||fly.amer-free.prd.media.max.com
 ||akm.amer-free.prd.media.max.com
 /^([^.]+\.)*dnitv\.com$/
