@@ -8,6 +8,8 @@
 /^[out0-9a-z]+\.litix\.io$/
 /^([a-z0-9-]+\.)?fwmrm\.net$/
 /^[0-9a-z-]+\.v\.fwmrm\.net$/
+||cf.emea-free.prd.media.max.com^$important
+||akm.emea-free.prd.media.max.com^$important
 ||cf.amer-free.prd.media.max.com^$important
 ||gmss.*.prd.api.discomax.com^$important
 ||gcp.amer-free.prd.media.max.com^$important
